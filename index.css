@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  color: cyan;
+}
+
+h1:hover {
+  color: darkcyan;
+}
+
+h1:active {
+  color: gold;
+}
+
+p {
+  color: #d3d3d3;
+}
+
+.morado {
+  color: purple;
+  margin: 10px;
+}
+
+.azul {
+  color: #1a8da1;
+}
+
+#unico {
+  color: gold;
+}
+
+
+.jake-box {
+  position: relative;
+}
+
+.jake-img {
+  position: sticky;
+  top: 100px;
+  left: 100px;
+  height: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: #4bff81
+}
+
+a:hover {
+  color:lightskyblue
+}
+
+a:active {
+  color:lightsalmon
+}
